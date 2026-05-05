@@ -2,20 +2,20 @@
 
 ShipIt is a community feedback and roadmap platform. Users submit ideas, vote on what matters most, and follow every feature from concept to shipped — all in one place.
 
-Built as a portfolio project to demonstrate a full-stack TypeScript application with real-world features.
+Built as a portfolio project to demonstrate a full-stack TypeScript application with real-world features and learn claudecode in a real environment.
 
 ## Features
 
-- 💡 **Idea board** — submit, vote, comment, tag and filter ideas
-- 🗺 **Kanban roadmap** — drag and drop ideas between status columns, reorder within columns
-- 🌐 **Global roadmap** — overview of all workspaces in one aggregated view
-- 📋 **Changelog** — publish release notes linked to shipped ideas
-- 👥 **Multi-workspace** — separate communities with role-based access (admin/moderator/member)
-- 🔔 **Real-time notifications** — SSE-powered live updates
-- 📊 **Admin panel** — analytics, growth report, user management, audit log
-- 🌍 **i18n** — Swedish and English, switchable without page reload
-- 🎨 **Dark/light mode** — system preference detection
-- 📧 **Email digest** — weekly summary of top ideas
+- **Idea board** — submit, vote, comment, tag and filter ideas
+- **Kanban roadmap** — drag and drop ideas between status columns, reorder within columns
+- **Global roadmap** — overview of all workspaces in one aggregated view
+- **Changelog** — publish release notes linked to shipped ideas
+- **Multi-workspace** — separate communities with role-based access (admin/moderator/member)
+- **Real-time notifications** — SSE-powered live updates
+- **Admin panel** — analytics, growth report, user management, audit log
+- **i18n** — Swedish and English, switchable without page reload
+- **Dark/light mode** — system preference detection
+- **Email digest** — weekly summary of top ideas
 
 ## Tech Stack
 
